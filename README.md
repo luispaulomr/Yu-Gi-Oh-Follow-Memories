@@ -9,3 +9,5 @@ Features of this version:
 - Freeze your health during duel.
 
 A demo can be found here: https://youtu.be/C1XATQ7DPaE
+
+![Pic](https://i.imgur.com/sX0jEyW.png)
