@@ -8,6 +8,8 @@ Features of this version:
 - Set enemy health to zero during duel.
 - Freeze your health during duel.
 
+Compilation: Visual Studio C++20
+
 A demo can be found here: https://youtu.be/C1XATQ7DPaE
 
 ![Pic](https://i.imgur.com/sX0jEyW.png)
