@@ -14,4 +14,4 @@ Compilation: Visual Studio C++20
 
 A demo can be found here: https://youtu.be/C1XATQ7DPaE
 
-![Pic](https://i.imgur.com/sX0jEyW.png)
+![github_image](https://github.com/user-attachments/assets/17abb607-7312-478e-9d98-5dd36bcbee55)
